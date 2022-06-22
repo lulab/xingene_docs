@@ -5,6 +5,8 @@ title:  深翌科技
 
 
 
+[**Join Us !**](./join-us/)
+
 # About Us
 
 ### 让科技的不断创新给每个人都带来健康
