@@ -1,0 +1,220 @@
+<!doctype html>
+<!--[if lt IE 8 ]><html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]><html lang="en" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="author" content="">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>新维度科研</title>
+
+<!-- main JS libs -->
+<script src="js/libs/jquery-1.10.2.min.js"></script>
+<script src="js/libs/jquery-ui.min.js"></script>
+<script src="js/libs/bootstrap.min.js"></script>
+
+<!-- Style CSS -->
+<link href="css/bootstrap.css" media="screen" rel="stylesheet">
+<link href="style.css" media="screen" rel="stylesheet">
+
+<!-- General Scripts -->
+<script src="js/general.js"></script>
+
+<!-- custom input -->
+<script src="js/jquery.customInput.js"></script>
+
+<!-- Placeholders -->
+<script src="js/jquery.powerful-placeholder.min.js"></script>
+<script>
+    jQuery(document).ready(function($) {
+        if($("[placeholder]").size() > 0) {
+            $.Placeholder.init();
+        }
+    });
+</script>
+
+<!-- CarouFredSel  -->
+<script src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
+
+<!-- Lightbox prettyPhoto -->
+<link href="css/prettyPhoto.css" rel="stylesheet">
+<script src="js/jquery.prettyPhoto.js"></script>
+
+<!-- Video Player -->
+<link href="css/video-js.css" rel="stylesheet">
+<script src="js/video.js"></script>
+<script>
+    videojs.options.flash.swf = "js/video-js.swf";
+</script>
+
+<!-- Audio Player -->
+<link href="css/jplayer.css" rel="stylesheet">
+<script src="js/jquery.jplayer.min.js"></script>
+<script src="js/jplayer.playlist.min.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+    $(document).ready(function(){
+
+        new jPlayerPlaylist({
+            jPlayer: "#jquery_jplayer_1",
+            cssSelectorAncestor: "#jp_container_1"
+        }, [
+            {
+                title:"<div class='item-image'><img src='images/temp/music-player-1.jpg' alt='' /></div><div class='item-title'><span class='item-artist'>Beyoncé</span><span class='item-song'>Love on Top</span></div>",
+                mp3:"http://www.jplayer.org/audio/mp3/TSP-05-Your_face.mp3",
+                oga:"http://www.jplayer.org/audio/ogg/TSP-05-Your_face.ogg"
+            },
+            {
+                title:"<div class='item-image'><img src='images/temp/music-player-2.jpg' alt='' /></div><div class='item-title'><span class='item-artist'>Lene Marlin</span><span class='item-song'>Unforgivable Sinner</span></div>",
+                mp3:"http://www.jplayer.org/audio/mp3/TSP-07-Cybersonnet.mp3",
+                oga:"http://www.jplayer.org/audio/ogg/TSP-07-Cybersonnet.ogg"
+            },
+            {
+                title:"<div class='item-image'><img src='images/temp/music-player-3.jpg' alt='' /></div><div class='item-title'><span class='item-artist'>Toby Lightman</span><span class='item-song'>Lets go Racing Boys</span></div>",
+                mp3:"http://www.jplayer.org/audio/mp3/Miaow-07-Bubble.mp3",
+                oga:"http://www.jplayer.org/audio/ogg/Miaow-07-Bubble.ogg"
+            }
+        ], {
+            swfPath: "js",
+            supplied: "oga, mp3",
+            wmode: "window",
+            smoothPlayBar: false,
+            keyEnabled: false
+        });
+    });
+    //]]>
+</script>
+
+<!-- Calendar -->
+<script src="js/jquery-ui.multidatespicker.js"></script>
+
+<!-- range sliders -->
+<script src="js/jquery.slider.bundle.js"></script>
+<script src="js/jquery.slider.js"></script>
+<link href="css/jslider.css" rel="stylesheet">
+
+<!-- Graph Builder -->
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+<!-- Visual Text Editor -->
+<script src="js/nicEdit.js"></script>
+
+<!-- Multiselect (Chosen.js) -->
+<link rel="stylesheet" href="css/chosen.css">
+<script src="js/chosen.jquery.min.js"></script>
+
+<!--[if lt IE 9]><script src="js/respond.min.js"></script><![endif]-->
+</head>
+
+<body>
+<div class="body-wrap">
+    <div class="content">
+        <!--container-->
+        <div class="container">
+            <!-- row -->
+            <div class="row">
+                <div class="col-sm-12">
+                    <!-- Website Menu -->
+                    <ul class="menu boxed clearfix">
+                        <li><a href="#"><i class="menu-icon menu-icon-1"></i>首页</a></li>
+                        <li>
+                            <a href="#"><i class="menu-icon menu-icon-2"></i>关于我们</a>
+                            <ul>
+                                <li><a href="#">Air Tickets</a></li>
+                                <li><a href="#">Train Tickets</a></li>
+                                <li><a href="#">Ship Tickets</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="menu-icon menu-icon-3"></i>科研咨询</a>
+                            <ul>
+                                <li><a href="#">Service 1</a></li>
+                                <li><a href="#">Service 2</a></li>
+                                <li><a href="#">Service 3</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="menu-icon menu-icon-4"></i>生物云系统</a>
+                            <ul>
+                                <li>
+                                    <a href="#">5 Stars Hotel</a>
+                                    <ul>
+                                        <li><a href="#">Single Room</a></li>
+                                        <li><a href="#">Double Room</a></li>
+                                        <li><a href="#">Triple Room</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#">4 Stars Hotel</a>
+                                    <ul>
+                                        <li><a href="#">Single Room</a></li>
+                                        <li><a href="#">Double Room</a></li>
+                                        <li><a href="#">Triple Room</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#">3 Stars Hotel</a>
+                                    <ul>
+                                        <li><a href="#">Single Room</a></li>
+                                        <li><a href="#">Double Room</a></li>
+                                        <li><a href="#">Triple Room</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a href="#"><i class="menu-icon menu-icon-5"></i>生物信息课堂</a></li>
+                        <li><a href="#"><i class="menu-icon menu-icon-6"></i>加入我们</a></li>
+                    </ul>
+                    <!--/ Website Menu -->
+                </div>
+            </div>
+            <!--/ row -->
+	    <div class="row">
+		<div class="col-md-6" style="float:left;">
+		<img src="./pipeline.png" alt="..." class="img-rounded img-responsive">
+		</div>
+		<div>
+		<div class="col-md-2" style="float:left;">
+			<img src="./structure.png" alt="..." class="img-rounded  img-responsive">
+		</div>
+		<div class="col-md-2" style="float:left;">
+			<img src="./chip-seq.png" alt="..." class="img-rounded  img-responsive">
+		</div>
+		<div class="col-md-2" style="float:left;">
+			<img src="./resequencing.png" alt="..." class="img-rounded  img-responsive">
+		</div>
+		<div class="col-md-2" style="padding:20px;">
+			<img src="./rnaseq.png" alt="..." class="img-rounded  img-responsive">
+		</div>
+		<div class="col-md-2" style="z-index:2;position:absolute;top:20px;">
+			<img src="./xinweidukeyan.png" alt="..." class="img-rounded  img-responsive">
+		</div>
+		</div>
+
+	    </div>
+            <div class="row" style="margin-top:15px;">
+		<div class="col-md-3">
+		<img src="./disease.png" alt="..." class="img-rounded  img-responsive">
+		</div>
+		<div class="col-md-3">
+		<img src="./rbpome.png" alt="..." class="img-rounded  img-responsive">
+		</div>
+		<div class="col-md-2">
+			<img src="./dnamethylation.png" alt="..." class="img-rounded  img-responsive">
+		</div>
+		<div class="col-md-2">
+			<img src="./genomeexons.png" alt="..." class="img-rounded  img-responsive">
+		</div>
+		<div class="col-md-2">
+			<img src="./smallrnaseq.png" alt="..." class="img-rounded  img-responsive">
+		</div>
+	    </div>
+
+        </div>
+        <!--/ container -->
+    </div>
+</div>
+</body>
+</html>
