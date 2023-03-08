@@ -3,7 +3,7 @@ layout: default
 title: Join Us!
 ---
 
-# 欢迎加入深翌科技
+# 欢迎加入“新维度”
 
 **目录**
 
