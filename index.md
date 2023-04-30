@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  新维度基因
+description: Docs of XinGene
 ---
 
 

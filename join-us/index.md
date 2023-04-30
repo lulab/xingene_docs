@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Join Us!
+title: 新维度基因
+description: Join Us!
 ---
 
 # 欢迎加入“新维度”
@@ -12,7 +13,7 @@ title: Join Us!
 
 ---
 
-**岗位地点**：北京市海淀区清华科技园、北京市昌平区生命科学园
+**岗位地点**：北京市海淀区清华科技园、苏州工业园区
 
 ## 产品方向
 
