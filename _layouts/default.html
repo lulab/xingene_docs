@@ -7,7 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-      {% include nav.html %}
+      
+ {% include nav.html %} 
+
 
 
   </head>
@@ -15,7 +17,10 @@
     <section class="page-header">
       <br>
       <h1 class="project-name">{{ page.title | default: site.title | default: "新维度基因" }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: "XinGene: Decode the Language of Life" }}</h2>
+      <br>
+      <a href="http://www.XinGene.com" class="btn">新维度基因</a>
+
+      
 <!--      <a href="http://www.ncrnalab.org" class="btn">Lu Lab</a>  -->
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
