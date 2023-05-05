@@ -228,8 +228,8 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
 
 - Bayer AI制药项目, AI driven drug design targeting RNAs，2023-2024 主持
 
-
 ## 承诺和声明
 
-![](declare.webp)
+上工治未病，我们的使命是要帮助人们更早期的发现癌症。我们相信，这种使命感以及为此付出的实践和努力，将帮助我们理解和治疗人类疾病，并最终认识和提高我们自己。
 
+![](declare.webp)
