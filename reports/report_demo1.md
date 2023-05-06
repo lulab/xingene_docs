@@ -212,7 +212,15 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
 
 - 体液样本中鉴定新型exRNA生物标志物的机器学习方法 (专利申请号：202010618721.4)
 
+##  相关已发表科研论文
 
+- [I. RNA-finder](https://www.ncrnalab.org/publications/pub.html#i-rna-finder)
+- II. RNA-target
+  - [II. 1 Protein targeting RNA](https://www.ncrnalab.org/publications/pub.html#ii-1-protein-targeting-rna)
+  - [II. 2 siRNA/shRNA targeting RNA](https://www.ncrnalab.org/publications/pub.html#ii-2-sirnashrna-targeting-rna)
+  - [II. 3 Small molecule targeting RNA](https://www.ncrnalab.org/publications/pub.html#ii-3-small-molecule-targeting-rna)
+- [III. RNA-structure/structurome](https://www.ncrnalab.org/publications/pub.html#iii-rna-structurestructurome)
+- [IV. RNA-med](https://www.ncrnalab.org/publications/pub.html#iv-rna-med)
 
 
 ## 相关在研项目
@@ -230,6 +238,7 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
 - 清华大学春风基金，2021Z99CFY022，针对微生物感染的新型核酸检测技术研发，2021/09-2023/09 主持
 
 - Bayer AI制药项目, AI driven drug design targeting RNAs，2023-2024 主持
+
 
 ## 承诺和声明
 
