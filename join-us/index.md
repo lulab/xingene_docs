@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 新维度基因
+title: 欣维度基因
 description: Join Us!
 ---
 
-# 欢迎加入“新维度”
+# 欢迎加入“欣维度”
 
 **目录**
 
