@@ -1,5 +1,5 @@
 <script type="text/javascript">
-var password = "xin06260001";
+var password = "xin0626001";
 var x = prompt("Enter in the password "," ");
 if (x.toLowerCase() == password) {
  window.location = "report_20230626001.html";
@@ -9,6 +9,7 @@ else {
  window.location = "./index.html";
 }
 </script>
+
 
 
 # Reports
