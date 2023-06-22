@@ -251,6 +251,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  ruby
 
 DEPENDENCIES
   activesupport (>= 6.0.3.1)
