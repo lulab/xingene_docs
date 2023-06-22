@@ -80,7 +80,7 @@ title: 泛癌症cfRNA早期筛查检测报告
 * 您本次检测的最终评估结果为 **阴性**
 * 您体内的肿瘤信号强度为 **0.3412**（正常人参考区间为： 0 - 0.8596，特异性为95%）
 
-<img src="/reports/img/score_2023060702.png" style="zoom:25%;" />
+<img src="/reports/img/score-low.webp" style="zoom:25%;" />
 
 具体请参见以下说明：
 
