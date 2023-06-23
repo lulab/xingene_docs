@@ -95,6 +95,12 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 <iframe src="https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/files/?p=%2FExpression_data_Zhu.xlsx" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
 
+### 4. 更多中间步骤的结果
+
+上述肿瘤信号强度的最终值是我们通过几十亿（~2-3G）的测序数据加上我们专有的 AI 模型计算而来，包含了如下图所示的**4个主要模块的数十道工序**。各个中间步骤的具体结果文件可以从 [附录：全部文件下载链接](#files) 中获取。
+
+<img src="/reports/img/steps.webp" style="zoom:50%;" />
+
 <div style="page-break-after: always;"></div>
 
 ---
@@ -332,8 +338,16 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
 
 ---
 
-## 附录：相关文件下载
+## 附录：相关文件下载  {#files}
 
 * [报告PDF文件 - 预览链接](https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/files/?p=%2F%E6%B3%9B%E7%99%8C%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A-Zhu.pdf)
 * [全转录组基因测定数值表 - 预览链接](https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/files/?p=%2FExpression_data_Zhu.xlsx) (表中数据量很大，建议在电脑端预览该报告)
-* [全部文件下载链接](https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/)
+* [全部文件 - 下载链接](https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/) (包含了如下四个模块的数十道工序的各类检测实验结果和AI计算结果)
+  * （1）血浆RNA质检相关各类实验结果
+  * （2）全转录组测序相关各类实验结果
+  * （3）大数据生信分析相关各类计算结果
+  * （4）AI预测相关各类计算结果
+
+> 检测和计算结果工序流程图：
+
+<img src="/reports/img/steps.webp" style="zoom:60%;" />
