@@ -8,6 +8,9 @@ title: 泛癌症cfRNA早期筛查检测报告
 * TOC
 {:toc}
 
+
+<div style="page-break-after: always;"></div>
+
 ---
 
 
@@ -21,7 +24,11 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 希望我们的产品能为您的健康贡献一份绵薄之力，并衷心祝愿您和您的家人身体健康!
 
-<img src="/reports/img/xingene.webp" style="zoom:25%;" />
+> 北京欣维度基因科技有限公司 
+
+<img src="/reports/img/xingene.webp" style="zoom:15%;" /> [XinGene.com](http://www.xingene.com) 
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -84,9 +91,11 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 **上述肿瘤信号强度的最终值是我们通过几十亿（~2-3G）的测序数据所测得的全转录组基因表达值，加上我们专有的 AI 模型计算而来。全转录组基因表达值测定总图表如下：**
 
-<iframe src="https://cloud.tsinghua.edu.cn/d/36ad18a689074af18536/files/?p=%2FExpression_data_Zhu.xlsx" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/files/?p=%2FExpression_data_Zhu.xlsx" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
 
+<div style="page-break-after: always;"></div>
 
+---
 
 ## 相关健康知识和建议
 ### 为什么要做癌症早筛（早期筛查肿瘤信号）？
@@ -190,7 +199,9 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
 我们基于cfRNA的AI模型在泛癌上具有很好的诊断能力，**综合准确度（AUC）高达91%（尤其是肝癌的高于95%）**，并且在早期癌症中的表现仍然稳定不降低，这种对**早期癌症的高敏感**度要远远优于 cfDNA 等其他方法。
 
 
+<div style="page-break-after: always;"></div>
 
+---
 
 ## 技术成果相关报道
 
@@ -198,12 +209,15 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
 
 
 
-2022.07. | [北京大学第一医院王鹏远/清华大学鲁志/徐振江团队合作发表泛癌早诊研究新成果](https://mp.weixin.qq.com/s/sbM2M_uZhuUXttdumdBCJQ)
-2020.11. | [清华大学鲁志、海军军医大学殷建华和国家肝癌科学中心陈磊课题组揭示针对肝癌AFP阴性诊断和早期诊断的血液非编码RNA标志物](https://www.seqchina.cn/13047.html)
-2019.12. | [“披着羊皮的狼”——癌症转移的新面纱 - 清华大学王栋、鲁志Cell Res发文揭示肿瘤转移新模型](https://www.seqchina.cn/11102.html)
-2019.5. | [清华大学鲁志研究团队与天津、上海研究团队联合发布液体活检新成果！多种非编码RNA结构域或可作为稳定的肝癌无创诊断标志物](https://www.seqchina.cn/9578.html)
-2017.3. | [清华大学，东方肝胆医院发表Nature子刊解析与癌症有关的lncRNA](https://www.ebiotrade.com/newsf/2017-2/2017228174413583.htm)
-2016.11. | [利用生物信息学发现基因组暗物质– 清华大学鲁志实验室非编码RNA软件系列介绍](https://m.sohu.com/n/472285488/)
+
+| 2022.07. | [北京大学第一医院王鹏远/清华大学鲁志/徐振江团队合作发表泛癌早诊研究新成果](https://mp.weixin.qq.com/s/sbM2M_uZhuUXttdumdBCJQ) |
+| -------- |:------------------------------------------------------------   |
+| 2020.11. | [清华大学鲁志、海军军医大学殷建华和国家肝癌科学中心陈磊课题组揭示针对肝癌AFP阴性诊断和早期诊断的血液非编码RNA标志物](https://www.seqchina.cn/13047.html) |
+| 2019.12. | [“披着羊皮的狼”——癌症转移的新面纱 - 清华大学王栋、鲁志Cell Res发文揭示肿瘤转移新模型](https://www.seqchina.cn/11102.html) |
+| 2019.5.  | [清华大学鲁志研究团队与天津、上海研究团队联合发布液体活检新成果！多种非编码RNA结构域或可作为稳定的肝癌无创诊断标志物](https://www.seqchina.cn/9578.html) |
+| 2017.3.  | [清华大学，东方肝胆医院发表Nature子刊解析与癌症有关的lncRNA](https://www.ebiotrade.com/newsf/2017-2/2017228174413583.htm) |
+| 2016.11. | [利用生物信息学发现基因组暗物质– 清华大学鲁志实验室非编码RNA软件系列介绍](https://m.sohu.com/n/472285488/) |
+
 
 
 
@@ -258,6 +272,14 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
 - 本公司仅保证本次合格样品检测结果的正确性，不对一致性负责。
 - 因为癌症是极为复杂的疾病，其发生发展是由多因素、多阶段、多基因共同作用的结果，分析结果仅提示癌症的患病风险，风险度高不表示该个体一定会患病，同时风险度低不表示该个体一定不会患病。
 
+> 北京欣维度基因科技有限公司 
+
+<img src="/reports/img/xingene.webp" style="zoom:15%;" /> [XinGene.com](http://www.xingene.com) 
+
+<div style="page-break-after: always;"></div>
+
+---
+
 ## 附录：防癌生活建议
 癌症是全球公共卫生问题之一，每年都有数百万人被诊断出患有癌症。预防癌症至关重要，因为许多类型的癌症可以通过调整生活习惯来降低风险，所以我们提供了以下防癌生活建议，内容涵盖饮食、运动、生活习惯等方面，以帮助您降低患癌风险。
 - 饮食建议
@@ -304,9 +326,12 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
 
 小结：预防癌症需要综合调整饮食、运动和生活习惯。在饮食方面，多吃蔬菜、水果和全谷物，减少红肉和加工肉类摄入，选择健康的脂肪，减少盐摄入，限制热量摄入。在运动方面，增加身体活动，减少久坐时间，保持运动习惯。在生活习惯方面，戒烟限酒，注意防晒，接种疫苗，定期体检，管理压力。通过以上建议，您可以降低患癌风险，保持健康的生活状态。
 
+<div style="page-break-after: always;"></div>
+
+---
 
 ## 附录：相关文件下载
 
-* [报告PDF文件 - 预览链接](https://cloud.tsinghua.edu.cn/d/36ad18a689074af18536/files/?p=%2F%E6%B3%9B%E7%99%8C%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A-Zhu.pdf)
-* [全转录组基因测定数值表 - 预览链接](https://cloud.tsinghua.edu.cn/d/36ad18a689074af18536/files/?p=%2FExpression_data_Zhu.xlsx)
-* [全部文件下载链接](https://cloud.tsinghua.edu.cn/d/36ad18a689074af18536/)
+* [报告PDF文件 - 预览链接](https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/files/?p=%2F%E6%B3%9B%E7%99%8C%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A-Zhu.pdf)
+* [全转录组基因测定数值表 - 预览链接](https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/files/?p=%2FExpression_data_Zhu.xlsx)
+* [全部文件下载链接](https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/)
