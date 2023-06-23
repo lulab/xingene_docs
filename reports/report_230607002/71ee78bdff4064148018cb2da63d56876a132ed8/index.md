@@ -91,6 +91,8 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 **上述肿瘤信号强度的最终值是我们通过几十亿（~2-3G）的测序数据所测得的全转录组基因表达值，加上我们专有的 AI 模型计算而来。全转录组基因表达值测定总图表如下：**
 
+(表中数据量很大，建议用在电脑端预览该报告)
+
 <iframe src="https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/files/?p=%2FExpression_data_Zhu.xlsx" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
 
 <div style="page-break-after: always;"></div>
@@ -333,5 +335,5 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
 ## 附录：相关文件下载
 
 * [报告PDF文件 - 预览链接](https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/files/?p=%2F%E6%B3%9B%E7%99%8C%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A-Zhu.pdf)
-* [全转录组基因测定数值表 - 预览链接](https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/files/?p=%2FExpression_data_Zhu.xlsx)
+* [全转录组基因测定数值表 - 预览链接](https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/files/?p=%2FExpression_data_Zhu.xlsx) (表中数据量很大，建议在电脑端预览该报告)
 * [全部文件下载链接](https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/)
