@@ -118,7 +118,7 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 上述肿瘤信号强度的最终值是我们通过几十亿（~2-3G）的测序数据加上我们专有的 AI 模型计算而来，包含了如下图所示的**4个主要模块的数十道工序**。各个中间步骤的具体结果文件可以从 [附录：全部文件下载链接](#files) 中获取。
 
-<img src="/reports/img/steps.webp" style="zoom:50%;" />
+<img src="/reports/img/steps.webp" style="zoom:20%;" />
 
 
 <div style="page-break-after: always;"></div>
