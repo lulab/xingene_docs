@@ -27,12 +27,10 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 ## 基本信息
 
-*  **样本编码：202305010001**
 *  姓名：张三
 *  性别:  男				
 *  年龄：56
-*  手机（登录账户名）:  18812345678		
-*  采样点：北京	
+*  采样点：北京欣维度清华科技园检测点	
 *  采样日期:  2023.05.01.
 *  接收日期:  2023.05.01.						
 *  报告日期:  2023.05.12.
@@ -47,7 +45,7 @@ title: 泛癌症cfRNA早期筛查检测报告
 ![](img/pipeline.webp)
 
 
-## 质控报告
+## 质控检测结果
 
 您本次检测项目的综合质量评估结果为  **合格**
 <br> 具体请参见下表：
@@ -59,27 +57,19 @@ title: 泛癌症cfRNA早期筛查检测报告
 | **样本质控** | RNA含量(Cq)   | 27       | < 32     |
 |      | DNA污染(Cq)   | 40       | > 35     |
 |      | 微生物污染(ΔCq)  | -5       | < 5      |
-| **文库质控** | 片段大小(bp)    | 350      | 200~500  |
-|      | 文库浓度(ng/μl) | 10       | >1       |
+|  **文库质控**     | 文库浓度(ng/μl) | 10       | >1       |
 |      | 接头二聚体(%)    | 0        | <5       |
-| **数据质控** | 原始数据(M)     | 10       | > 4      |
-|      | 有效数据(M)     | 9.8      | > 3.8    |
-|      | 核糖体数据(%)    | 5        | < 20     |
-|      | 线粒体数据(%)    | 5        | < 20     |
-|      | 基因组数据(M)    | 6        | > 2      |
-|      | 去重后数据(M)    | 1        | > 0.1    |
-| **综合评估** | **合格** |||
+| **综合评估** | **<font style="color:green">合格</font>** |||
 
 **注：**
 
 1. DNA污染(Cq)：使用RT-qPCR对样本中的DNA污染进行定量的结果。
 2. 微生物污染(ΔCq)：使用RT-qPCR对样本中的细菌核酸污染进行定量的结果。
-3. 有效数据(M)：去除低质量测序数据并剪切掉接头序列后得到的测序数据量。
-4. 去重后数据(M)：使用分子标签去除重复序列之后得到的测序数据量。
 
-## 检测结果
 
-* 您本次检测的最终评估结果为 **阴性**
+## 癌症信号检测结果
+
+* 您本次检测的最终评估结果为 **<font style="color:green">阴性</font>**
 * 您体内的肿瘤信号强度为 **0.25**  （正常人参考区间为： 0 - 0.8）
 
 <img src="/reports/img/score-low.webp" style="zoom:25%;" />
@@ -90,15 +80,17 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 * 当前结果的肿瘤信号强度为 **0.25**。
 
-根据我们已有的临床数据，该结果意味着您处于低风险水平，未在您的血液样本中检测到RNA水平的癌症信号，提示您的「结直肠、胃、肝脏和肺部」罹患肿瘤的风险较低。该结果仅作为提示，不能完全排除相关风险，不作为最终诊断结果。
+根据我们已有的临床数据，该结果意味着您处于低风险水平，未在您的血液样本中检测到RNA水平的癌症信号，提示您的「肺部、结直肠、胃、肝脏和食管」罹患肿瘤的风险较低。该结果仅作为提示，不能完全排除相关风险，不作为最终诊断结果。
 
 ### 2. 癌症类型评估
 
-* 根据当前结果计算的肿瘤发生位置预测：「结直肠」癌的可能性最高为**70%**； 「肝」癌可能性为**50%**；「肺」癌可能性为 **10%**，其他位置可能性为 **20%**。
+* 根据当前结果计算的肿瘤发生位置预测：「肺」癌可能性为 **10%**；「结直肠」癌的可能性最高为**70%**； 「肝」癌可能性为**50%**；「食管」癌可能性为 **10%**；其他位置可能性为 **10%**。
 
 ### 3. 全转录组基因测定数值
 
-基因测定值示例：
+**上述肿瘤信号强度的最终值是我们通过几十亿（~2-3G）的测序数据所测得的全转录组基因表达值，加上我们专有的 AI 模型计算而来。全转录组基因表达值测定总图表如下。**
+
+基因测定值示例（demo 文件只展示部分示例）：
 
 |Gene Name|RNA_expression_TPM|chimeric_count|promoter_count|promoter_max|promoter_min|promoter_mean|splicing_count_A3SS|splicing_entropy_A3SS|splicing_max_A3SS|splicing_min_A3SS|splicing_mean_A3SS|splicing_count_A5SS|splicing_entropy_A5SS|splicing_max_A5SS|splicing_min_A5SS|splicing_mean_A5SS|splicing_count_MXE|splicing_entropy_MXE|splicing_max_MXE|splicing_min_MXE|splicing_mean_MXE|splicing_count_RI|splicing_entropy_RI|splicing_max_RI|splicing_min_RI|splicing_mean_RI|splicing_count_SE|splicing_entropy_SE|splicing_max_SE|splicing_min_SE|splicing_mean_SE|ASE_count|ASE_entropy|ASE_max|ASE_min|ASE_mean|ASE_mean_all|ASE_mean_window_1|ASE_mean_window_2|ASE_mean_window_3|editing_count|editing_entropy|editing_max|editing_min|editing_mean|editing_mean_all|editing_mean_window_1|editing_mean_window_2|editing_mean_window_3|SNP_count|SNP_entropy|SNP_max|SNP_min|SNP_mean|SNP_mean_all|SNP_mean_window_1|SNP_mean_window_2|SNP_mean_window_3|
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
@@ -114,15 +106,6 @@ title: 泛癌症cfRNA早期筛查检测报告
 |LINC02484|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
 |RN7SL145P|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
 
-
-*  [全转录组基因测定数值表 - 预览链接](https://cloud.tsinghua.edu.cn/f/8276270e208343f18999/)
-*    [全转录组基因测定数值表 - 下载链接](https://cloud.tsinghua.edu.cn/f/c71b6d4aa63c49fea7c7/?dl=1)
-
-
-### 4. 报告文件下载
-
-* [PDF 预览链接](https://cloud.tsinghua.edu.cn/f/c32a49134fb54bef859b/)
-* [PDF下载链接](https://cloud.tsinghua.edu.cn/f/c32a49134fb54bef859b/?dl=1)
 
 
 ## 相关健康知识和建议
@@ -259,7 +242,7 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
 
 - 体液样本中鉴定新型exRNA生物标志物的机器学习方法 (专利申请号：202010618721.4)
 
-##  相关已发表科研论文
+## 相关已发表科研论文
 
 - [I. RNA-finder](https://www.ncrnalab.org/publications/pub.html#i-rna-finder)
 - II. RNA-target
@@ -341,3 +324,10 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
   长期的精神压力可能影响免疫系统，增加患癌风险。建议您学会管理压力，如进行深呼吸、冥想、瑜伽等放松技巧，保持良好的心理状态。
 
 小结：预防癌症需要综合调整饮食、运动和生活习惯。在饮食方面，多吃蔬菜、水果和全谷物，减少红肉和加工肉类摄入，选择健康的脂肪，减少盐摄入，限制热量摄入。在运动方面，增加身体活动，减少久坐时间，保持运动习惯。在生活习惯方面，戒烟限酒，注意防晒，接种疫苗，定期体检，管理压力。通过以上建议，您可以降低患癌风险，保持健康的生活状态。
+
+## 附录：相关文件下载
+
+* 报告文件PDF预览链接
+* 报告文件PDF下载链接
+* 全转录组基因测定数值表 - 预览链接
+* 全转录组基因测定数值表 - 下载链接

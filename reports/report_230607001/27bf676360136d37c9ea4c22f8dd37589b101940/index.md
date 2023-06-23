@@ -35,7 +35,6 @@ title: 泛癌症cfRNA早期筛查检测报告
 *  接收日期:  2023.06.07.						
 *  报告日期:  2023.06.21.
 
-
 ## 项目流程
 
 癌症检测项目的实验流程如下图所示。为了保证检测结果准确可靠，我们建立了严格的质量控制体系，分别在血液样本，RNA文库和测序数据三个关键节点上都设立了质量检查点。
@@ -44,13 +43,29 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 ![](/reports/img/pipeline.webp)
 
-## 质控报告
+## 质控检测结果
 
-您本次检测项目的原始数据大小为15G，综合质量评估结果为  **合格**
+| **质控阶段** | **质控参数**    | **质控结果** | **质控标准** |
+|----------|-------------|----------|----------|
+| **样本质控** | RNA含量(Cq)   | 21.37       | < 32     |
+|      | DNA污染(Cq)   | 40       | > 35     |
+|      | 微生物污染(ΔCq)  | -3.6       | < 5      |
+|  **文库质控**     | 文库浓度(ng/μl) | 31.2       | >1       |
+|      | 接头二聚体(%)    | 0        | <5       |
+| **综合评估** | <font style="color:green">合格</font> |||
 
-## 检测结果
 
-* 您本次检测的最终评估结果为 **阴性**
+**注：**
+
+1. DNA污染(Cq)：使用RT-qPCR对样本中的DNA污染进行定量的结果。
+2. 微生物污染(ΔCq)：使用RT-qPCR对样本中的细菌核酸污染进行定量的结果。
+
+
+
+
+## 肿瘤信号检测结果
+
+* 您本次检测的最终评估结果为 **<font style="color:green">阴性</font>**
 * 您体内的肿瘤信号强度为 **0.6581**（正常人参考区间为： 0 - 0.8596，特异性为95%）
 
 <img src="/reports/img/score-m.webp" style="zoom:25%;" />
@@ -69,20 +84,12 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 ### 3. 全转录组基因测定数值
 
-基因测定值示例：
-
-|Gene Name|DDX11L1|WASH7P|AL627309.1|AL627309.2|AL627309.5|
-|:----|:----|:----|:----|:----|:----|
-|RNA_expression_log10(CPM)|1.558|0.41|0.491|0.617|0.311|
-
-*  [全转录组基因测定数值表 - 预览链接](https://cloud.tsinghua.edu.cn/f/cb17aba5df7a47ceb815/)
-*  [全转录组基因测定数值表 - 下载链接](https://cloud.tsinghua.edu.cn/f/cb17aba5df7a47ceb815/?dl=1)
+**上述肿瘤信号强度的最终值是我们通过几十亿（~2-3G）的测序数据所测得的全转录组基因表达值，加上我们专有的 AI 模型计算而来。全转录组基因表达值测定总图表如下：**
 
 
-### 4. 报告文件下载
 
-* [PDF 预览链接](https://cloud.tsinghua.edu.cn/f/46da9df46eb04bccba0b/)
-* [PDF下载链接](https://cloud.tsinghua.edu.cn/f/46da9df46eb04bccba0b/?dl=1)
+<iframe src="https://cloud.tsinghua.edu.cn/d/bec7cdf1a49d40e6af40/files/?p=%2FExpression_data_Qin.xlsx" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
+
 
 
 ## 相关健康知识和建议
@@ -300,3 +307,9 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
   长期的精神压力可能影响免疫系统，增加患癌风险。建议您学会管理压力，如进行深呼吸、冥想、瑜伽等放松技巧，保持良好的心理状态。
 
 小结：预防癌症需要综合调整饮食、运动和生活习惯。在饮食方面，多吃蔬菜、水果和全谷物，减少红肉和加工肉类摄入，选择健康的脂肪，减少盐摄入，限制热量摄入。在运动方面，增加身体活动，减少久坐时间，保持运动习惯。在生活习惯方面，戒烟限酒，注意防晒，接种疫苗，定期体检，管理压力。通过以上建议，您可以降低患癌风险，保持健康的生活状态。
+
+## 附录：相关文件下载
+
+* [报告PDF文件 - 预览链接](https://cloud.tsinghua.edu.cn/d/bec7cdf1a49d40e6af40/files/?p=%2F%E6%B3%9B%E7%99%8C%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A-qin.pdf)
+* [全转录组基因测定数值表 - 预览链接](https://cloud.tsinghua.edu.cn/d/bec7cdf1a49d40e6af40/files/?p=%2FExpression_data_Qin.xlsx)
+* [全部文件下载链接](https://cloud.tsinghua.edu.cn/d/bec7cdf1a49d40e6af40/)
