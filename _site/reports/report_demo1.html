@@ -20,7 +20,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
-    <link rel="stylesheet" href="/assets/css/style.css?v=eded7ccf9f8dc84d30895d407a4f08440922a7f7">
+    <link rel="stylesheet" href="/assets/css/style.css?v=34e1bb753333a4b811177693bda677170120fd8a">
       
  <style>
     #link_bar a:link { color:white }
@@ -72,6 +72,7 @@
           <li><a href="#1-体内肿瘤信号强度评估" id="markdown-toc-1-体内肿瘤信号强度评估">1. 体内肿瘤信号强度评估</a></li>
           <li><a href="#2-癌症类型评估" id="markdown-toc-2-癌症类型评估">2. 癌症类型评估</a></li>
           <li><a href="#3-全转录组基因测定数值" id="markdown-toc-3-全转录组基因测定数值">3. 全转录组基因测定数值</a></li>
+          <li><a href="#4-更多中间步骤的结果" id="markdown-toc-4-更多中间步骤的结果">4. 更多中间步骤的结果</a></li>
         </ul>
       </li>
       <li><a href="#相关健康知识和建议" id="markdown-toc-相关健康知识和建议">相关健康知识和建议</a>        <ul>
@@ -88,7 +89,7 @@
       <li><a href="#相关在研项目" id="markdown-toc-相关在研项目">相关在研项目</a></li>
       <li><a href="#承诺和声明" id="markdown-toc-承诺和声明">承诺和声明</a></li>
       <li><a href="#附录防癌生活建议" id="markdown-toc-附录防癌生活建议">附录：防癌生活建议</a></li>
-      <li><a href="#附录相关文件下载" id="markdown-toc-附录相关文件下载">附录：相关文件下载</a></li>
+      <li><a href="#files" id="markdown-toc-files">附录：相关文件下载</a></li>
     </ul>
   </li>
 </ul>
@@ -203,7 +204,7 @@
   <li>您体内的肿瘤信号强度为 <strong>0.25</strong>  （正常人参考区间为： 0 - 0.8）</li>
 </ul>
 
-<p><img src="/reports/img/score-low.webp" style="zoom:25%;" /></p>
+<p><img src="/reports/img/score-low.webp" style="zoom:60%;" /></p>
 
 <p>具体请参见以下说明：</p>
 
@@ -223,8 +224,9 @@
 
 <h3 id="3-全转录组基因测定数值">3. 全转录组基因测定数值</h3>
 
-<p><strong>上述肿瘤信号强度的最终值是我们通过几十亿（~2-3G）的测序数据所测得的全转录组基因表达值，加上我们专有的 AI 模型计算而来。全转录组基因表达值测定总图表如下。</strong>
-(表中数据量很大，建议在电脑端预览该报告)</p>
+<p><strong>上述肿瘤信号强度是由我们专有的 AI 模型基于您的转录组中的几万个基因计算而来，我们通过几十亿碱基对的测序量测得您的全转录组如下：</strong></p>
+
+<p>(表中数据量很大，建议在电脑端预览该报告)</p>
 
 <p>基因测定值示例（demo 文件只展示部分示例）：</p>
 
@@ -967,6 +969,12 @@
   </tbody>
 </table>
 
+<h3 id="4-更多中间步骤的结果">4. 更多中间步骤的结果</h3>
+
+<p>我们的计算基于您的血样中的高达<strong>几十亿碱基对</strong>的测序量，加上专有的 AI 模型，包含了如下图所示的<strong>4个主要模块的数十道工序</strong>。各个中间步骤的具体结果文件可以从 <a href="#files">附录：全部文件下载链接</a> 中获取。</p>
+
+<p><img src="/reports/img/steps.webp" style="zoom:50%;" /></p>
+
 <div style="page-break-after: always;"></div>
 
 <hr />
@@ -1284,14 +1292,28 @@
 
 <hr />
 
-<h2 id="附录相关文件下载">附录：相关文件下载</h2>
+<h2 id="files">附录：相关文件下载</h2>
 
 <ul>
-  <li>报告文件PDF预览链接</li>
-  <li>报告文件PDF下载链接</li>
+  <li>报告文件PDF - 预览链接</li>
+  <li>报告文件PDF - 下载链接</li>
   <li>全转录组基因测定数值表 - 预览链接 (表中数据量很大，建议在电脑端预览该报告)</li>
   <li>全转录组基因测定数值表 - 下载链接</li>
+  <li><strong>全部文件 - 下载链接</strong>  (包含了报告文件和如下四个模块的数十道工序的各类检测实验结果和AI计算结果)
+    <ul>
+      <li>（1）血浆RNA质检相关各类实验结果</li>
+      <li>（2）全转录组测序相关各类实验结果</li>
+      <li>（3）大数据生信分析相关各类计算结果</li>
+      <li>（4）AI预测相关各类计算结果</li>
+    </ul>
+  </li>
 </ul>
+
+<blockquote>
+  <p>检测和计算结果工序流程图（基于高达几十亿碱基对的测序数据和独有AI模型）：</p>
+</blockquote>
+
+<p><img src="/reports/img/steps.webp" style="zoom:60%;" /></p>
 
 
       <footer class="site-footer">
