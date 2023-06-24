@@ -73,30 +73,33 @@ title: 泛癌症cfRNA早期筛查检测报告
 * 您本次检测的最终评估结果为 **<font style="color:green">阴性</font>**
 * 您体内的肿瘤信号强度为: 
 
-| **检测类型** | **实测值**    | **正常人参考区间 (特异性指标)** | **<font style="color:green">阴性</font>** |
+| **检测类型** | **实测值**    | **正常人参考区间**<sup>（注）</sup> | **<font style="color:green">阴性</font>** |
 |----------|-------------|----------|----------|
-| **肿瘤信号** | **0.6581**   |    0 - 0.86 (95%)   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+| **肿瘤信号** | **0.6581**   |    0 - 0.86  | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+
+<sup>注</sup> 正常人参考区间的特异性指标为95%。
 
 具体请参见以下说明：
 
 ### 1. 体内肿瘤信号强度评估
 
-* 当前结果的肿瘤信号强度为 **0.6581**。
+* 您体内的肿瘤信号强度为 **0.6581**。
 
 根据我们已有的临床数据，该结果意味着您处于低风险水平，未在您的血液样本中检测到RNA水平的癌症信号，提示您的「肺部、结直肠、胃、肝脏、食管」罹患肿瘤的风险较低。该结果仅作为提示，不能完全排除相关风险，不作为最终诊断结果。
 
 ### 2. 癌症类型评估
 
-* 您的「肺部、结直肠、胃、肝脏、食管」的癌症信号检测值都属于正常范围，具体如下：
+* 您的「肺部、结直肠、胃、肝脏、食管」的癌症信号检测值都属于正常范围，具体检测结果如下：
 
-| **癌症类型** | **实测值**    | **正常人参考区间 (特异性指标)** | **<font style="color:green">阴性</font>** |
+| **癌症类型** | **实测值**    | **正常人参考区间**<sup>（注）</sup> | **<font style="color:green">阴性</font>** |
 |----------|-------------|----------|----------|
-| **肺部** | **0.107**   |    0 - 0.139 (95%)   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
-| **结直肠** | **0.244**   |    0 - 0.319 (95%)   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
-| **胃** | **0.172**   |    0 - 0.224 (95%)   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
-| **肝脏** | **0.020**   |    0 - 0.026 (95%)   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
-| **食管** | **0.115**   |    0 - 0.151 (95%)    | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+| **肺部** | **0.107**   |    0 - 0.139    | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+| **结直肠** | **0.244**   |    0 - 0.319   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+| **胃** | **0.172**   |    0 - 0.224   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+| **肝脏** | **0.020**   |    0 - 0.026    | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+| **食管** | **0.115**   |    0 - 0.151    | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
 
+<sup>注</sup> 正常人参考区间的特异性指标为95%。
 
 <div style="page-break-after: always;"></div>
 
@@ -104,13 +107,13 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 **上述肿瘤信号强度是由我们专有的 AI 模型基于您的转录组中的几万个基因计算而来，我们通过几十亿碱基对的测序量测得您的全转录组如下。**
 
-* 代表性基因表达谱：
+* 您的代表性基因表达谱：
 
 <img src="e1.png" style="zoom:50%;" />
 <img src="e2.png" style="zoom:50%;" />
 
 
-* 转录组基因表达值全表： (表中数据量很大，建议在电脑端预览该报告)
+* 您的转录组基因表达值全表： (表中数据量很大，建议在电脑端预览该报告)
 
 <iframe src="https://cloud.tsinghua.edu.cn/d/63ec790bd01148d19b7a/files/?p=%2FExpression_data_Qin.xlsx" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
 

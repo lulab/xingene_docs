@@ -75,9 +75,11 @@ title: 泛癌症cfRNA早期筛查检测报告
 * 您本次检测的最终评估结果为 **<font style="color:green">阴性</font>**
 * 您体内的肿瘤信号强度为: 
 
-| **检测类型** | **实测值**    | **正常人参考区间 (特异性指标)** | **<font style="color:green">阴性</font>** |
+| **检测类型** | **实测值**    | **正常人参考区间**<sup>（注）</sup> | **<font style="color:green">阴性</font>** |
 |----------|-------------|----------|----------|
-| **肿瘤信号** | **0.3412**   |    0 - 0.86 (95%)   | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
+| **肿瘤信号** | **0.3412**   |    0 - 0.86  | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
+
+<sup>注</sup> 正常人参考区间的特异性指标为95%。
 
 具体请参见以下说明：
 
@@ -92,13 +94,15 @@ title: 泛癌症cfRNA早期筛查检测报告
 * 您的「肺部、结直肠、胃、肝脏、食管」的癌症信号检测值都属于正常范围，具体如下：
 
 
-| **检测类型** | **实测值**    | **正常人参考区间 (特异性指标)** | **<font style="color:green">阴性</font>** |
+| **检测类型** | **实测值**    | **正常人参考区间**<sup>（注）</sup> | **<font style="color:green">阴性</font>** |
 |----------|-------------|----------|----------|
-| **肺部** | **0.021**   |    0 - 0.052 (95%)  | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
-| **结直肠** | **0.066**   |    0 - 0.165 (95%)   | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
-| **胃** | **0.026**   |    0 - 0.066 (95%)   | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
-| **肝脏** | **0.191**   |    0 - 0.482 (95%)  | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
-| **食管** | **0.038**   |    0 - 0.095 (95%)   | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
+| **肺部** | **0.021**   |    0 - 0.052 | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
+| **结直肠** | **0.066**   |    0 - 0.165   | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
+| **胃** | **0.026**   |    0 - 0.066    | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
+| **肝脏** | **0.191**   |    0 - 0.482  | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
+| **食管** | **0.038**   |    0 - 0.095   | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
+
+<sup>注</sup> 正常人参考区间的特异性指标为95%。
 
 <div style="page-break-after: always;"></div>
 
