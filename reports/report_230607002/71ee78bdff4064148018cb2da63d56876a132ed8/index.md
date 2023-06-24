@@ -71,7 +71,6 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 * 您本次检测的最终评估结果为 **<font style="color:green">阴性</font>**
 * 您体内的肿瘤信号强度为 **0.3412**（正常人参考区间为： 0 - 0.8596，特异性为95%）
-
 <img src="/reports/img/score-low.webp" style="zoom:60%;" />
 
 具体请参见以下说明：
@@ -85,6 +84,16 @@ title: 泛癌症cfRNA早期筛查检测报告
 ### 2. 癌症类型评估
 
 * 您的「肺部、结直肠、胃、肝脏、食管」罹患肿瘤的风险较低，无需估计肿瘤发生位置。
+
+
+| **类型** | **实测值**    | **正常人参考区间** | **特异性指标** | **<font style="color:green">阴性</font>** |
+|----------|-------------|----------|----------|----------|
+| **肺部** | **0.021**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+| **结直肠** | **0.066**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+| **胃** | **0.026**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+| **肝脏** | **0.191**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+| **食管** | **0.038**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+
 
 ### 3. 全转录组基因测定数值
 
