@@ -85,15 +85,15 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 ### 2. 癌症类型评估
 
-* 您的「肺部、结直肠、胃、肝脏、食管」zho属于正常范围，
+* 您的「肺部、结直肠、胃、肝脏、食管」的癌症信号检测值都属于正常范围，具体如下：
 
 | **类型** | **实测值**    | **正常人参考区间** | **特异性指标** | **<font style="color:green">阴性</font>** |
 |----------|-------------|----------|----------|----------|
-| **肺部** | **0.107**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
-| **结直肠** | **0.244**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
-| **胃** | **0.172**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
-| **肝脏** | **0.020**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
-| **食管** | **0.115**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+| **肺部** | **0.107**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
+| **结直肠** | **0.244**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
+| **胃** | **0.172**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
+| **肝脏** | **0.020**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
+| **食管** | **0.115**   |    0 - 0.86  | 95%   | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
 
 
 ### 3. 全转录组基因测定数值
