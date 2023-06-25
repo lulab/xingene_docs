@@ -116,9 +116,46 @@ title: 泛癌症cfRNA早期筛查检测报告
 <img src="e2.png" style="zoom:50%;" />
 
 
-* 您的转录组基因表达值全表： (表中数据量很大，建议在电脑端预览该报告)
+* 您的代表性基因表达数值表：
 
-<iframe src="https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/files/?p=%2FExpression_data_Zhu.xlsx" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
+
+
+| Gene             | RNA_expression_log10(CPM) | Gene       | RNA_expression_log10(CPM) | Gene       | RNA_expression_log10(CPM) | Gene       | RNA_expression_log10(CPM) | Gene       | RNA_expression_log10(CPM) |
+| ---------------- | ------------------------- | ---------- | ------------------------- | ---------- | ------------------------- | ---------- | ------------------------- | ---------- | ------------------------- |
+| hsa_circ_0117038 | 0.082                     | AL353807.1 | 0                         | PGBD4P4    | 0                         | AL136972.1 | 0                         | JPH1       | 0                         |
+| hsa_circ_0117045 | 0.21                      | AL353807.2 | 0                         | GAPDHP56   | 0                         | RIPPLY2    | 0                         | GDAP1      | 0.987                     |
+| hsa_circ_0117046 | 0.082                     | MSTO1      | 0.906                     | AC093831.2 | 0                         | CYB5R4     | 1.693                     | AC103952.1 | 0                         |
+| hsa_circ_0117053 | 0.082                     | AL353807.3 | 0.457                     | AC093831.1 | 0                         | AL034347.1 | 0                         | Y_RNA      | 0                         |
+| hsa_circ_0117054 | 0.082                     | YY1AP1     | 2.378                     | AC025554.1 | 0                         | AL161621.1 | 0                         | MIR2052HG  | 0                         |
+| hsa_circ_0117056 | 0.082                     | DAP3       | 1.702                     | RNU6-224P  | 0                         | MRAP2      | 0.151                     | AC115837.1 | 0                         |
+| hsa_circ_0117060 | 0.082                     | AL162734.1 | 0                         | LINC02377  | 0                         | CEP162     | 1.72                      | AC115837.2 | 0                         |
+| hsa_circ_0117061 | 0.082                     | MSTO2P     | 1.307                     | AC105424.1 | 0                         | LINC01611  | 0                         | AC011632.1 | 0.151                     |
+| hsa_circ_0117063 | 0.151                     | GON4L      | 2.403                     | RN7SL205P  | 0                         | SMARCE1P2  | 0                         | AC026616.1 | 0                         |
+| hsa_circ_0117089 | 0.082                     | AL139128.1 | 0                         | SNORA70    | 0                         | TBX18      | 0                         | PI15       | 0                         |
+| hsa_circ_0117090 | 0.082                     | SYT11      | 0.883                     | AC107393.1 | 0                         | TBX18-AS1  | 0                         | AC011632.2 | 0                         |
+| hsa_circ_0117128 | 0.082                     | U4         | 0                         | SNHG27     | 0                         | AL590143.1 | 0                         | CRISPLD1   | 0                         |
+| hsa_circ_0117141 | 0.262                     | RIT1       | 2.019                     | RPL7AP28   | 0                         | AL109941.1 | 0                         | AC100782.1 | 0                         |
+| hsa_circ_0117176 | 0.082                     | KIAA0907   | 1.733                     | AC096711.2 | 0                         | AL139806.1 | 0                         | AC022274.1 | 0                         |
+| hsa_circ_0117224 | 0.262                     | SNORA80E   | 0                         | AC096711.3 | 0.21                      | AL122016.1 | 0                         | CASC9      | 0                         |
+| hsa_circ_0117226 | 0.082                     | RXFP4      | 0                         | AC096711.1 | 0                         | AL135903.1 | 0                         | HIGD1AP6   | 0                         |
+| hsa_circ_0117268 | 0.082                     | ARHGEF2    | 2.211                     | ELL2P2     | 0                         | KRT18P64   | 0                         | PKMP4      | 0                         |
+| hsa_circ_0117270 | 0.082                     | AL355388.2 | 0.151                     | AC114741.1 | 0                         | LINC02535  | 0                         | HNF4G      | 0                         |
+| hsa_circ_0117275 | 0.082                     | AL355388.1 | 0                         | LINC01256  | 0                         | DUTP5      | 0                         | RNU2-54P   | 0                         |
+| hsa_circ_0117289 | 0.082                     | SSR2       | 1.986                     | AARSP1     | 0                         | TPT1P6     | 0                         | AC067773.1 | 0                         |
+| hsa_circ_0117303 | 0.082                     | UBQLN4     | 1.365                     | AC115622.1 | 0                         | NT5E       | 0.262                     | LINC01109  | 0                         |
+| hsa_circ_0117352 | 0.082                     | LAMTOR2    | 2.117                     | AC110751.1 | 0                         | AL589666.2 | 0                         | LINC01111  | 0                         |
+| hsa_circ_0117360 | 0.082                     | RAB25      | 0                         | AC105383.1 | 0                         | SNX14      | 2.023                     | ZFHX4-AS1  | 0                         |
+| hsa_circ_0117367 | 0.082                     | MEX3A      | 0.082                     | R3HDM2P1   | 0                         | AL589666.1 | 1.609                     | AC013509.1 | 0                         |
+| hsa_circ_0117372 | 0.082                     | LMNA       | 1.628                     | PCDH10     | 0                         | SYNCRIP    | 2.162                     | AC011716.1 | 0                         |
+| hsa_circ_0117380 | 0.309                     | SEMA4A     | 1.492                     | AC105252.1 | 0                         | PKMP3      | 0                         | ZFHX4      | 0                         |
+| hsa_circ_0117388 | 0.082                     | SNORA26    | 0                         | AC079380.1 | 0                         | SNHG5      | 1.549                     | AC023200.1 | 0                         |
+| hsa_circ_0117393 | 0.082                     | SLC25A44   | 0.675                     | PABPC4L    | 0                         | SNORD50B   | 0                         | PEX2       | 0.928                     |
+| hsa_circ_0117424 | 0.082                     | PMF1-BGLAP | 1.056                     | AC109830.1 | 0                         | AL355615.1 | 0                         | HIGD1AP18  | 0                         |
+
+
+
+
+您所有基因的【全转录组基因测定数值全表】可以从 [附录：全部文件下载链接](#files) 中获取。
 
 ### 4. 更多中间步骤的结果
 

@@ -113,9 +113,42 @@ title: 泛癌症cfRNA早期筛查检测报告
 <img src="e2.png" style="zoom:50%;" />
 
 
-* 您的转录组基因表达值全表： (表中数据量很大，建议在电脑端预览该报告)
+* 您的代表性基因表达数值表：
 
-<iframe src="https://cloud.tsinghua.edu.cn/d/63ec790bd01148d19b7a/files/?p=%2FExpression_data_Qin.xlsx" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
+| Gene             | RNA_expression_log10(CPM) | Gene        | RNA_expression_log10(CPM) | Gene          | RNA_expression_log10(CPM) | Gene       | RNA_expression_log10(CPM) | Gene       | RNA_expression_log10(CPM) |
+| ---------------- | ------------------------- | ----------- | ------------------------- | ------------- | ------------------------- | ---------- | ------------------------- | ---------- | ------------------------- |
+| hsa_circ_0131162 | 0.183                     | LINC00538   | 0                         | AC010343.3    | 0                         | AC091729.1 | 0                         | CDCA4P1    | 0                         |
+| hsa_circ_0131165 | 0.183                     | PROX1       | 0                         | LINC02120     | 0                         | AC091729.2 | 0                         | ZDHHC21    | 1.098                     |
+| hsa_circ_0131189 | 0.183                     | AC011700.1  | 0                         | AC034223.1    | 0                         | GPER1      | 0                         | CER1       | 0                         |
+| hsa_circ_0131219 | 0.183                     | AL606537.1  | 0                         | AC034223.2    | 0                         | ZFAND2A    | 1.274                     | FREM1      | 0                         |
+| hsa_circ_0131264 | 1.298                     | AL592287.1  | 0                         | AC010343.2    | 0                         | AC091729.3 | 0.311                     | AL512643.1 | 0                         |
+| hsa_circ_0131266 | 0.491                     | SMYD2       | 1.25                      | AC010343.1    | 0                         | UNCX       | 0                         | RNU6-1260P | 0                         |
+| hsa_circ_0131308 | 0.311                     | AL929236.1  | 0                         | LINC02160     | 0                         | AC073094.1 | 0                         | LDHAP4     | 0                         |
+| hsa_circ_0131357 | 0.41                      | PTPN14      | 0                         | AC034231.1    | 0                         | MICALL2    | 0.491                     | CLCN3P1    | 0.311                     |
+| hsa_circ_0131361 | 0.183                     | AL445305.1  | 0                         | TARS          | 1.223                     | AC102953.1 | 0.311                     | AL592293.1 | 0                         |
+| hsa_circ_0131387 | 0.183                     | KRT18P12    | 0                         | AC034232.1    | 0                         | AC102953.2 | 0                         | AL592293.2 | 0                         |
+| hsa_circ_0131398 | 0.183                     | CENPF       | 0.311                     | AC034232.2    | 0                         | INTS1      | 1.274                     | RNU6-559P  | 0                         |
+| hsa_circ_0131401 | 0.183                     | ABHD17AP3   | 0                         | ADAMTS12      | 0                         | AC093734.1 | 0                         | TTC39B     | 1.783                     |
+| hsa_circ_0131429 | 0.617                     | UBE2V1P13   | 0                         | RNU6-923P     | 0                         | MAFK       | 0.491                     | RPL7P33    | 0                         |
+| hsa_circ_0131431 | 0.41                      | GAPDHP24    | 0                         | RXFP3         | 0                         | TMEM184A   | 0                         | SNAPC3     | 1.576                     |
+| hsa_circ_0131433 | 0.183                     | AC099563.1  | 0                         | SLC45A2       | 0                         | PSMG3      | 0                         | RNU6-319P  | 0                         |
+| hsa_circ_0131446 | 0.41                      | KCNK2       | 0                         | AC139783.2    | 0                         | PSMG3-AS1  | 0.491                     | PSIP1      | 2.208                     |
+| hsa_circ_0131448 | 0.559                     | VDAC1P10    | 0                         | AMACR         | 0                         | TFAMP1     | 0                         | AL513423.1 | 0                         |
+| hsa_circ_0131451 | 0.311                     | AL450990.1  | 0                         | C1QTNF3-AMACR | 0.491                     | AC074389.2 | 0                         | RN7SL98P   | 0                         |
+| hsa_circ_0131455 | 0.183                     | KCTD3       | 0.491                     | AC139783.1    | 0                         | ELFN1      | 0                         | FTH1P12    | 0.311                     |
+| hsa_circ_0131481 | 0.183                     | USH2A       | 0                         | C1QTNF3       | 0.491                     | AC074389.3 | 0                         | RNU6-246P  | 0                         |
+| hsa_circ_0131505 | 0.183                     | SNORD116    | 0                         | AC139792.2    | 0                         | AC074389.1 | 0                         | CCDC171    | 1.482                     |
+| hsa_circ_0131556 | 0.183                     | AL358452.1  | 0                         | AC139792.3    | 0                         | ELFN1-AS1  | 0                         | HMGN2P16   | 0                         |
+| hsa_circ_0131597 | 0.183                     | AC093581.1  | 0                         | AC139792.1    | 0                         | MAD1L1     | 0.972                     | RNU6-14P   | 0                         |
+| hsa_circ_0131609 | 0.183                     | AC138024.1  | 0                         | AC138409.2    | 0.921                     | AC104129.1 | 0                         | C9orf92    | 0                         |
+| hsa_circ_0131635 | 0.311                     | MRPS18BP1   | 0                         | AC138409.1    | 0                         | MRM2       | 0                         | BNC2       | 0                         |
+| hsa_circ_0131636 | 0.311                     | ESRRG       | 0                         | AC138853.1    | 0                         | NUDT1      | 0.491                     | AL449983.1 | 0                         |
+| hsa_circ_0131638 | 0.183                     | GPATCH2     | 0.715                     | AC025754.2    | 0                         | SNX8       | 0.795                     | AL450003.1 | 0                         |
+| hsa_circ_0131643 | 0.311                     | SPATA17     | 0                         | RAI14         | 0                         | IMMP1LP3   | 0                         | AL450003.2 | 0                         |
+| hsa_circ_0131652 | 0.311                     | SPATA17-AS1 | 0                         | AC025754.1    | 0                         | EIF3B      | 1.32                      | LSM1P1     | 0                         |
+
+您所有基因的【全转录组基因测定数值全表】可以从 [附录：全部文件下载链接](#files) 中获取。
+
 
 ### 4. 更多中间步骤的结果
 
