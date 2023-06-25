@@ -73,6 +73,10 @@ title: 泛癌症cfRNA早期筛查检测报告
 2. 微生物污染(ΔCq)：使用RT-qPCR对样本中的细菌核酸污染进行定量的结果。
 
 
+<div style="page-break-after: always;"></div>
+
+---
+
 ## 癌症信号检测结果
 
 * 您本次检测的最终综合评估结果为 **<font style="color:green">阴性</font>**
@@ -111,9 +115,12 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 **上述肿瘤信号强度是由我们专有的 AI 模型基于您的转录组中的几万个基因计算而来，我们通过几十亿碱基对的测序量测得您的全转录组如下：**
 
-(表中数据量很大，建议在电脑端预览该报告)
+* 您的代表性基因表达谱：
 
-基因测定值示例（demo 文件只展示部分示例）：
+<img src="/reports/img/exp.webp" style="zoom:80%;" />
+
+* 您的代表性基因表达数值表：
+
 
 |Gene Name|RNA_expression_TPM|chimeric_count|promoter_count|promoter_max|promoter_min|promoter_mean|splicing_count_A3SS|splicing_entropy_A3SS|splicing_max_A3SS|splicing_min_A3SS|splicing_mean_A3SS|splicing_count_A5SS|splicing_entropy_A5SS|splicing_max_A5SS|splicing_min_A5SS|splicing_mean_A5SS|splicing_count_MXE|splicing_entropy_MXE|splicing_max_MXE|splicing_min_MXE|splicing_mean_MXE|splicing_count_RI|splicing_entropy_RI|splicing_max_RI|splicing_min_RI|splicing_mean_RI|splicing_count_SE|splicing_entropy_SE|splicing_max_SE|splicing_min_SE|splicing_mean_SE|ASE_count|ASE_entropy|ASE_max|ASE_min|ASE_mean|ASE_mean_all|ASE_mean_window_1|ASE_mean_window_2|ASE_mean_window_3|editing_count|editing_entropy|editing_max|editing_min|editing_mean|editing_mean_all|editing_mean_window_1|editing_mean_window_2|editing_mean_window_3|SNP_count|SNP_entropy|SNP_max|SNP_min|SNP_mean|SNP_mean_all|SNP_mean_window_1|SNP_mean_window_2|SNP_mean_window_3|
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
@@ -128,6 +135,8 @@ title: 泛癌症cfRNA早期筛查检测报告
 |AC135048.2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
 |LINC02484|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
 |RN7SL145P|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+
+您所有基因的【全转录组基因测定数值全表】可以从 [附录：全部文件下载链接](#files) 中获取。
 
 
 ### 4. 更多中间步骤的结果
@@ -383,9 +392,7 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
 ## 附录：相关文件下载  {#files}
 
 * 报告文件PDF - 预览链接
-* 报告文件PDF - 下载链接
 * 全转录组基因测定数值表 - 预览链接 (表中数据量很大，建议在电脑端预览该报告)
-* 全转录组基因测定数值表 - 下载链接 
 * **全部文件 - 下载链接**  (包含了报告文件和如下四个模块的数十道工序的各类检测实验结果和AI计算结果)
   * （1）血浆RNA质检相关各类实验结果
   * （2）全转录组测序相关各类实验结果
