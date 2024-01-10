@@ -412,9 +412,9 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
 
 ## 附录：相关文件下载  {#files}
 
-* [报告PDF文件 - 预览链接](https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/files/?p=%2F%E6%B3%9B%E7%99%8C%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A-Zhu.pdf)
-* [全转录组基因测定数值表 - 预览链接](https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/files/?p=%2FExpression_data_Zhu.xlsx) (表中数据量很大，建议在电脑端预览该报告)
-* [全部文件 - 下载链接](https://cloud.tsinghua.edu.cn/d/1d8d0d5b3c8548688763/) (包含了报告文件和如下四个模块的数十道工序的各类检测实验结果和AI计算结果)
+* [报告PDF文件 - 预览链接](https://cloud.tsinghua.edu.cn/f/77fb36f809c140dcac27/)
+* [全转录组基因测定数值表 - 预览链接](https://cloud.tsinghua.edu.cn/f/de6e198dd3284022ba68/?dl=1) (表中数据量很大，建议在电脑端预览该报告)
+* [全部文件 - 下载链接](https://cloud.tsinghua.edu.cn/d/6c1240ddbc65409197bf/) (包含了报告文件和如下四个模块的数十道工序的各类检测实验结果和AI计算结果)
   * （1）血浆RNA质检相关各类实验结果
   * （2）全转录组测序相关各类实验结果
   * （3）大数据生信分析相关各类计算结果
