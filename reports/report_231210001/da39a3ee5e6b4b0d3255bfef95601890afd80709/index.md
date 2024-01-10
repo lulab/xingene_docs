@@ -122,35 +122,45 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 | Gene             | RNA_expression_log10(CPM) | Gene       | RNA_expression_log10(CPM) | Gene       | RNA_expression_log10(CPM) | Gene       | RNA_expression_log10(CPM) | Gene       | RNA_expression_log10(CPM) |
 | ---------------- | ------------------------- | ---------- | ------------------------- | ---------- | ------------------------- | ---------- | ------------------------- | ---------- | ------------------------- |
-| hsa_circ_0117038 | 0.082                     | AL353807.1 | 0                         | PGBD4P4    | 0                         | AL136972.1 | 0                         | JPH1       | 0                         |
-| hsa_circ_0117045 | 0.21                      | AL353807.2 | 0                         | GAPDHP56   | 0                         | RIPPLY2    | 0                         | GDAP1      | 0.987                     |
-| hsa_circ_0117046 | 0.082                     | MSTO1      | 0.906                     | AC093831.2 | 0                         | CYB5R4     | 1.693                     | AC103952.1 | 0                         |
-| hsa_circ_0117053 | 0.082                     | AL353807.3 | 0.457                     | AC093831.1 | 0                         | AL034347.1 | 0                         | Y_RNA      | 0                         |
-| hsa_circ_0117054 | 0.082                     | YY1AP1     | 2.378                     | AC025554.1 | 0                         | AL161621.1 | 0                         | MIR2052HG  | 0                         |
-| hsa_circ_0117056 | 0.082                     | DAP3       | 1.702                     | RNU6-224P  | 0                         | MRAP2      | 0.151                     | AC115837.1 | 0                         |
-| hsa_circ_0117060 | 0.082                     | AL162734.1 | 0                         | LINC02377  | 0                         | CEP162     | 1.72                      | AC115837.2 | 0                         |
-| hsa_circ_0117061 | 0.082                     | MSTO2P     | 1.307                     | AC105424.1 | 0                         | LINC01611  | 0                         | AC011632.1 | 0.151                     |
-| hsa_circ_0117063 | 0.151                     | GON4L      | 2.403                     | RN7SL205P  | 0                         | SMARCE1P2  | 0                         | AC026616.1 | 0                         |
-| hsa_circ_0117089 | 0.082                     | AL139128.1 | 0                         | SNORA70    | 0                         | TBX18      | 0                         | PI15       | 0                         |
-| hsa_circ_0117090 | 0.082                     | SYT11      | 0.883                     | AC107393.1 | 0                         | TBX18-AS1  | 0                         | AC011632.2 | 0                         |
-| hsa_circ_0117128 | 0.082                     | U4         | 0                         | SNHG27     | 0                         | AL590143.1 | 0                         | CRISPLD1   | 0                         |
-| hsa_circ_0117141 | 0.262                     | RIT1       | 2.019                     | RPL7AP28   | 0                         | AL109941.1 | 0                         | AC100782.1 | 0                         |
-| hsa_circ_0117176 | 0.082                     | KIAA0907   | 1.733                     | AC096711.2 | 0                         | AL139806.1 | 0                         | AC022274.1 | 0                         |
-| hsa_circ_0117224 | 0.262                     | SNORA80E   | 0                         | AC096711.3 | 0.21                      | AL122016.1 | 0                         | CASC9      | 0                         |
-| hsa_circ_0117226 | 0.082                     | RXFP4      | 0                         | AC096711.1 | 0                         | AL135903.1 | 0                         | HIGD1AP6   | 0                         |
-| hsa_circ_0117268 | 0.082                     | ARHGEF2    | 2.211                     | ELL2P2     | 0                         | KRT18P64   | 0                         | PKMP4      | 0                         |
-| hsa_circ_0117270 | 0.082                     | AL355388.2 | 0.151                     | AC114741.1 | 0                         | LINC02535  | 0                         | HNF4G      | 0                         |
-| hsa_circ_0117275 | 0.082                     | AL355388.1 | 0                         | LINC01256  | 0                         | DUTP5      | 0                         | RNU2-54P   | 0                         |
-| hsa_circ_0117289 | 0.082                     | SSR2       | 1.986                     | AARSP1     | 0                         | TPT1P6     | 0                         | AC067773.1 | 0                         |
-| hsa_circ_0117303 | 0.082                     | UBQLN4     | 1.365                     | AC115622.1 | 0                         | NT5E       | 0.262                     | LINC01109  | 0                         |
-| hsa_circ_0117352 | 0.082                     | LAMTOR2    | 2.117                     | AC110751.1 | 0                         | AL589666.2 | 0                         | LINC01111  | 0                         |
-| hsa_circ_0117360 | 0.082                     | RAB25      | 0                         | AC105383.1 | 0                         | SNX14      | 2.023                     | ZFHX4-AS1  | 0                         |
-| hsa_circ_0117367 | 0.082                     | MEX3A      | 0.082                     | R3HDM2P1   | 0                         | AL589666.1 | 1.609                     | AC013509.1 | 0                         |
-| hsa_circ_0117372 | 0.082                     | LMNA       | 1.628                     | PCDH10     | 0                         | SYNCRIP    | 2.162                     | AC011716.1 | 0                         |
-| hsa_circ_0117380 | 0.309                     | SEMA4A     | 1.492                     | AC105252.1 | 0                         | PKMP3      | 0                         | ZFHX4      | 0                         |
-| hsa_circ_0117388 | 0.082                     | SNORA26    | 0                         | AC079380.1 | 0                         | SNHG5      | 1.549                     | AC023200.1 | 0                         |
-| hsa_circ_0117393 | 0.082                     | SLC25A44   | 0.675                     | PABPC4L    | 0                         | SNORD50B   | 0                         | PEX2       | 0.928                     |
-| hsa_circ_0117424 | 0.082                     | PMF1-BGLAP | 1.056                     | AC109830.1 | 0                         | AL355615.1 | 0                         | HIGD1AP18  | 0                         |
+|hsa_circ_0000002|	0.9|	RNU4-75P|	0|	AC011243.1|	0|	SNX18P23|	0|	DEFB105B|	0|
+|hsa_circ_0000007|	0.334|	AC096949.1|	0|	RN7SKP93|	0|	AC118282.1|	0|	DEFB107B|	0|
+|hsa_circ_0000008|	1.403|	AGL|	1.236|	MGAT5|	1.459|	MTCO3P39|	0|	PRR23D1|	0|
+|hsa_circ_0000014|	1.205|	AC118553.1|	0|	RNA5SP104|	0|	MTND3P22|	0|	FAM90A6P|	0|
+|hsa_circ_0000018|	0.832|	SLC35A3|	1.339|	EDDM3CP|	0|	AC119751.3|	0|	FAM90A7P|	0|
+|hsa_circ_0000026|	0.832|	AC118553.2|	1.743|	TMEM163|	0|	ANKRD20A17P|	0|	FAM90A21P|	0|
+|hsa_circ_0000028|	0.334|	RNU6-750P|	0|	CCNT2-AS1|	0|	AC119751.5|	0|	FAM90A22P|	0|
+|hsa_circ_0000043|	0.52|	RNU6-1318P|	0|	VDAC2P4|	0|	AC119751.2|	0|	FAM90A23P|	0|
+|hsa_circ_0000053|	0.75|	MFSD14A|	1.606|	AC110620.1|	0|	AC119751.8|	0|	OR7E157P|	0|
+|hsa_circ_0000058|	0.334|	AC093019.2|	0|	ACMSD|	0|	AC119751.7|	0|	AC134684.1|	0|
+|hsa_circ_0000061|	0.52|	SASS6|	1.011|	CCNT2|	0.52|	MTCO3P42|	0|	AC134684.3|	0|
+|hsa_circ_0000076|	0.334|	AC093019.1|	0|	MAP3K19|	0|	AC119751.1|	0|	AC084121.3|	0|
+|hsa_circ_0000097|	0.52|	TRMT13|	1.099|	RAB3GAP1|	1.383|	AC119751.6|	0|	AC084121.4|	0|
+|hsa_circ_0000105|	1.099|	LRRC39|	0|	SNORA40B|	0|	SNX18P24|	0|	AC084121.2|	0|
+|hsa_circ_0000110|	0.9|	DBT|	0|	ZRANB3|	0.9|	AC119751.4|	0|	OR7E154P|	0|
+|hsa_circ_0000116|	1.058|	RPL23AP90|	0|	AC064850.1|	0|	SNX18P25|	0|	FAM90A14P|	0|
+|hsa_circ_0000117|	1.011|	BRI3P1|	0|	R3HDM1|	2.067|	DCUN1D4|	1.553|	FAM90A18P|	0|
+|hsa_circ_0000118|	0.651|	AL445928.1|	0|	RNU6-512P|	0|	DUTP7|	0|	FAM90A16P|	0|
+|hsa_circ_0000119|	0.334|	RTCA-AS1|	0.52|	UBXN4|	1.926|	AC027271.1|	0|	FAM90A8P|	0|
+|hsa_circ_0000133|	0.9|	RTCA|	1.889|	LCT|	0|	AC104784.1|	0|	FAM90A17P|	0|
+|hsa_circ_0000139|	1.29|	AC104457.1|	0|	AC011893.1|	0|	LRRC66|	0|	FAM90A19P|	0|
+|hsa_circ_0000142|	0.52|	AC104457.2|	0|	MCM6|	1.423|	SGCB|	1.383|	FAM90A9P|	0|
+|hsa_circ_0000146|	0.334|	CDC14A|	1.875|	AC011999.1|	0|	LINC02480|	0|	FAM90A10P|	0|
+|hsa_circ_0000151|	0.334|	BCAS2P2|	0|	DARS|	2.242|	SPATA18|	0|	PRR23D2|	0|
+|hsa_circ_0000155|	0.832|	AL589990.1|	0|	DARS-AS1|	0|	AC097522.1|	0|	AC084121.1|	0|
+|hsa_circ_0000160|	0.52|	GPR88|	0|	AC068492.1|	0|	RNU6-1252P|	0|	DEFB107A|	0|
+|hsa_circ_0000161|	1.205|	AC099670.1|	0|	CXCR4|	0|	USP46|	1.653|	DEFB105A|	0|
+|hsa_circ_0000164|	0.959|	LINC01349|	0|	HNRNPKP2|	0|	USP46-AS1|	0|	DEFB106A|	0|
+|hsa_circ_0000175|	0.651|	AC099670.2|	0|	AC112255.1|	0|	AC104066.2|	0|	DEFB104A|	0|
+|hsa_circ_0000209|	0.52|	VCAM1|	1.29|	UBBP1|	0|	DANCR|	1.675|	SPAG11A|	0|
+|hsa_circ_0000226|	0.75|	EXTL2|	0|	RN7SKP141|	0|	AC104066.1|	0|	DEFB103A|	0|
+|hsa_circ_0000247|	1.099|	AC104506.1|	0|	SMC4P1|	0|	ERVMER34-1|	0|	AC130365.1|	0|
+|hsa_circ_0000258|	0.334|	SLC30A7|	1.236|	THSD7B|	0|	LINC01618|	0|	DEFB4A|	0|
+|hsa_circ_0000264|	0.651|	HNRNPA1P68|	0|	RNA5SP105|	0|	RASL11B|	0|	ZNF705B|	0|
+|hsa_circ_0000311|	1.099|	DPH5|	1.236|	HNMT|	0|	SCFD2|	1.926|	DEFB108A|	0|
+|hsa_circ_0000325|	1.725|	AC093157.2|	0|	LINC01832|	0|	AC023154.1|	0|	FAM66E|	0|
+|hsa_circ_0000328|	0.334|	AC093157.1|	0|	AC097523.1|	0|	RNU6-310P|	0|	AC130365.2|	0|
+|hsa_circ_0000337|	0.651|	AC119501.1|	0|	YWHAEP5|	0|	FIP1L1|	2.396|	USP17L8|	0|
+|hsa_circ_0000339|	1.011|	AL109741.1|	0|	AC097523.2|	0|	AC058822.1|	2.275|	USP17L3|	0|
 
 
 
