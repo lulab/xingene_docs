@@ -24,7 +24,7 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 希望我们的产品能为您的健康贡献一份绵薄之力，并衷心祝愿您和您的家人身体健康!
 
-> 北京欣维度基因科技有限公司 \| [XinGene.com](http://www.xingene.com) 
+> 新维度基因 \| [XinGene.com](http://www.xingene.com) 
 
 <img src="/reports/img/xingene.webp" style="zoom:30%;" /> 
 
@@ -342,7 +342,7 @@ cfRNA指的是胞外RNA，又称exRNA，包括多种类型：miRNA,Y RNA,circRNA
 - 本公司仅保证本次合格样品检测结果的正确性，不对一致性负责。
 - 因为癌症是极为复杂的疾病，其发生发展是由多因素、多阶段、多基因共同作用的结果，分析结果仅提示癌症的患病风险，风险度高不表示该个体一定会患病，同时风险度低不表示该个体一定不会患病。
 
-> 北京欣维度基因科技有限公司 \| [XinGene.com](http://www.xingene.com) 
+> 新维度基因 \| [XinGene.com](http://www.xingene.com) 
 
 <img src="/reports/img/xingene.webp" style="zoom:30%;" /> 
 

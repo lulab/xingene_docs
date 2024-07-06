@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  欣维度基因-文档
+title:  新维度基因-文档
 description: Docs of XinGene
 ---
 
@@ -11,7 +11,7 @@ description: Docs of XinGene
 
 ### 让科技的不断创新给每个人都带来健康
 
->  “欣维度基因科技有限公司” 致力于为每个人提供新维度的、个性化的基因诊疗方案 
+>  “新维度基因” 致力于为每个人提供新维度的、个性化的基因诊疗方案 
 
 
 
