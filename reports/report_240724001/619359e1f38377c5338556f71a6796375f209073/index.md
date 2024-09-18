@@ -94,11 +94,11 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 | **癌症类型** | **实测值**    | **正常人参考区间**<sup>（注）</sup> | **<font style="color:green">阴性</font>** |
 |----------|-------------|----------|----------|
-| **肺部** | **0.199**   |    0 - 0.260    | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
-| **结直肠** | **0.291**   |    0 - 0.380   | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
-| **胃** | **0.036**   |    0 - 0.046   | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
-| **肝脏** | **0.001**   |    0 - 0.001    | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
-| **食管** | **0.132**   |    0 - 0.173    | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
+| **肺部** | **0.199**   |    0 - 0.260    | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+| **结直肠** | **0.291**   |    0 - 0.380   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+| **胃** | **0.036**   |    0 - 0.046   | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
+| **肝脏** | **0.001**   |    0 - 0.001    | <img src="/reports/img/score-h75.webp" style="zoom:30%;" /> |
+| **食管** | **0.132**   |    0 - 0.173    | <img src="/reports/img/score-m.webp" style="zoom:30%;" /> |
 
 <sup>注</sup> 正常人参考区间的特异性指标为95%。
 
