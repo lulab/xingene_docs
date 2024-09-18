@@ -76,7 +76,7 @@ title: 泛癌症cfRNA早期筛查检测报告
 
 | **检测类型** | **实测值**    | **正常人参考区间**<sup>（注）</sup> | **<font style="color:green">阴性</font>** |
 |----------|-------------|----------|----------|
-| **肿瘤信号** | **0.6578**   |    0 - 0.86  | <img src="/reports/img/score-low.webp" style="zoom:30%;" /> |
+| **肿瘤信号** | **0.6578**   |    0 - 0.86  | <img src="/reports/img/score-h75.webp" style="zoom:30%;" /> |
 
 <sup>注</sup> 正常人参考区间的特异性指标为95%。
 
